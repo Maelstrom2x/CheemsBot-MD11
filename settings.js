@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "PROPERTY OF"
 global.author = "NOT ASIM MUNEER\n\n+923140152133"
 global.creator = "923140152133@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '/'
 global.premium = ["923140152133"] // Premium User
 global.hituet = 0
 
